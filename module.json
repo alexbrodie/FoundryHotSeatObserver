@@ -14,8 +14,8 @@
 	"esmodules": [
 		"foundry-hot-seat-observer.js" 
     ],
-    "url": "https://github.com/alexbrodie/FoundryHotSeatObserver",
-    "manifest": "https://raw.githubusercontent.com/alexbrodie/FoundryHotSeatObserver/master/module.json",
-    "download": "https://github.com/alexbrodie/FoundryHotSeatObserver/archive/master.zip",
+    "url": "https://github.com/zzarek/FoundryHotSeatObserver",
+    "manifest": "https://raw.githubusercontent.com/zzarek/FoundryHotSeatObserver/master/module.json",
+    "download": "https://github.com/zzarek/FoundryHotSeatObserver/archive/master.zip",
 	"minimumCoreVersion": "0.5.5"
 }
